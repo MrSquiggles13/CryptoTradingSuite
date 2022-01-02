@@ -11,7 +11,7 @@
 * Track price and sentiment of token to keep an update of when to buy a run up
 * Keep strict standards and send alerts when buy and sell signals are set/executed
 * Ability to set if buys/sells are automated
-* 
+* Since BSC will utilize pancakeswap
 
 ## Staking/Yield Farming Indicators
 * Set listing of best passive yield calculating in impermanent loss and actual realized gains
