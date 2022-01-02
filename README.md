@@ -6,9 +6,12 @@
 * Automate with brownie framework/python
 
 ## Market Making Pairs
-* Determine buy and sell points from close prices of certain crypto assets
-* Needed API's and SDK's for trading platform
-* Automate with plain python
+* Generate list of all current tradabe pairs
+* Add onto list new pairs as they are created
+* Track price and sentiment of token to keep an update of when to buy a run up
+* Keep strict standards and send alerts when buy and sell signals are set/executed
+* Ability to set if buys/sells are automated
+* 
 
 ## Staking/Yield Farming Indicators
 * Set listing of best passive yield calculating in impermanent loss and actual realized gains
